@@ -61,8 +61,15 @@ https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/
 
 Microsoft Learn - Choose the best Azure IoT service for your application https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/
 
+# Power Platform 
 
+June 6, 2022
+Intro into developing with Microsoft Power Platform
+https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/
 
+June 6, 2022
+Get started with power automate for desktop
+https://docs.microsoft.com/en-us/learn/paths/pad-get-started/
 
 February 15, 2022
 
