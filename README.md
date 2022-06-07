@@ -61,20 +61,20 @@ https://docs.microsoft.com/en-us/learn/modules/serverless-fundamentals/
 
 Microsoft Learn - Choose the best Azure IoT service for your application https://docs.microsoft.com/en-us/learn/modules/iot-fundamentals/
 
+February 15, 2022
+
+Microsoft Learning - Explore Azure database and analytics services 
+https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/
+
 # Power Platform 
 
 June 6, 2022
 Intro into developing with Microsoft Power Platform
 https://docs.microsoft.com/en-us/learn/paths/intro-developing-power-platform/
 
-June 6, 2022
 Get started with power automate for desktop
 https://docs.microsoft.com/en-us/learn/paths/pad-get-started/
 
-February 15, 2022
-
-Microsoft Learning - Explore Azure database and analytics services 
-https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/
 
 # Dynamics 365
 
@@ -109,6 +109,13 @@ Beginning Python Track - Team Treehouse (in progress)
 https://teamtreehouse.com/tracks/beginning-python
 
 June 2-3, 2022 - Python Basics
+
+## HTML/CSS
+
+March 15, 2022
+
+Flexbox Crash Course 2022
+https://www.youtube.com/watch?v=3YW65K6LcIA
 
 
 
