@@ -66,6 +66,10 @@ February 15, 2022
 Microsoft Learning - Explore Azure database and analytics services 
 https://docs.microsoft.com/en-us/learn/modules/azure-database-fundamentals/
 
+June 13, 2022 - June 17, 2022
+Microsoft internal Azure Bootcamp
+
+
 # Power Platform 
 
 June 6, 2022
@@ -108,15 +112,18 @@ Beginning Python Track - Team Treehouse (in progress)
 
 https://teamtreehouse.com/tracks/beginning-python
 
-June 2-3, 2022 - Python Basics
+June 2-3, 2022 - 
+Python Basics
 
 ## HTML/CSS
 
 March 15, 2022
-
 Flexbox Crash Course 2022
 https://www.youtube.com/watch?v=3YW65K6LcIA
 
+June 6, 2022
+What is DOM, Shadow DOM and Virtual DOM?
+https://www.youtube.com/watch?v=7Tok22qxPzQ
 
 
 
