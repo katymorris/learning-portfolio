@@ -88,6 +88,11 @@ Microsoft Learning - Introduction to Dynamics 365 - https://docs.microsoft.com/e
 
 # AI
 
+June 14, 2022
+
+Live Coding A Machine Learning Model from Scratch (Google I/O'19)
+https://www.youtube.com/watch?v=_RPHiqF2bSs
+
 # Azure Cognitive Services
 
 April 22, 2022
