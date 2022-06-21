@@ -10,10 +10,15 @@ June 7, 2022
 Angular Crash Course
 https://www.youtube.com/watch?v=3dHNOWTI7H8&t=1501s
 
+June 17, 2022
+Angular - The Complete Guide (2022 Edition)
+https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=0#overview
 
 June 20, 2022
 Reactive Forms - The Basics
 https://www.youtube.com/watch?v=JeeUY6WaXiA
+
+
 
 ## Node
 
@@ -149,6 +154,7 @@ June 20, 2022
 What is Serverless?
 https://www.youtube.com/watch?v=Fx3ZGy-mbV4
 
-June 20, 2022
-5 Design Patterns Every Engineer Should Know
-https://www.youtube.com/watch?v=FLmBqI3IKMA
+
+June 21, 2022
+16.8: Array Functions: filter() - Topics of JavaScript/ES6
+https://www.youtube.com/watch?v=qmnH5MT_luk
