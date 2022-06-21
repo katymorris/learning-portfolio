@@ -1,10 +1,10 @@
-# learning-portfolio
+## learning-portfolio
 List of courses, courses, articles, and things I've been learning to continuously improve my skillset.
 
-# React
+## React
 
 
-# Angular
+## Angular
 
 June 7, 2022
 Angular Crash Course
@@ -15,14 +15,14 @@ June 20, 2022
 Reactive Forms - The Basics
 https://www.youtube.com/watch?v=JeeUY6WaXiA
 
-# Node
+## Node
 
 March 2, 2022
 *******************
 https://www.youtube.com/watch?v=Lk-uVEVGxOA
 Fastify Crash Course | Node.js Framework
 
-# TypeScript
+## TypeScript
 
 June 1, 2022
 
@@ -30,7 +30,7 @@ June 1, 2022
 TypeScript Tutorial for Beginners [2022]
 https://www.youtube.com/watch?v=d56mG7DezGs
 
-# Azure
+## Azure
 
 November 3, 2021
 Introduction to Azure Fundementals
@@ -82,7 +82,7 @@ June 13, 2022 - June 17, 2022
 Microsoft internal Azure Bootcamp
 
 
-# Power Platform 
+## Power Platform 
 
 June 6, 2022
 Intro into developing with Microsoft Power Platform
@@ -98,20 +98,20 @@ February 13, 2022
 
 Microsoft Learning - Introduction to Dynamics 365 - https://docs.microsoft.com/en-us/learn/modules/dynamics-365-introduction/
 
-# AI
+## AI
 
 June 14, 2022
 
 Live Coding A Machine Learning Model from Scratch (Google I/O'19)
 https://www.youtube.com/watch?v=_RPHiqF2bSs
 
-# Azure Cognitive Services
+## Azure Cognitive Services
 
 April 22, 2022
 
 Setup and create postman collection for Sentiment API
 
-# Kubernetes
+## Kubernetes
 
 April 13, 2022
 
@@ -123,7 +123,7 @@ May 27, 2022
 Kubernetes Crash Course for Absolute Beginners
 https://www.youtube.com/watch?v=s_o8dwzRlu4
 
-# Python
+## Python
 
 Beginning Python Track - Team Treehouse (in progress)
 
@@ -143,5 +143,8 @@ What is DOM, Shadow DOM and Virtual DOM?
 https://www.youtube.com/watch?v=7Tok22qxPzQ
 
 
+## General Concepts 
 
-
+June 20, 2022
+What is Serverless?
+https://www.youtube.com/watch?v=Fx3ZGy-mbV4
