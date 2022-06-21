@@ -3,6 +3,18 @@ List of courses, courses, articles, and things I've been learning to continuousl
 
 # React
 
+
+# Angular
+
+June 7, 2022
+Angular Crash Course
+https://www.youtube.com/watch?v=3dHNOWTI7H8&t=1501s
+
+
+June 20, 2022
+Reactive Forms - The Basics
+https://www.youtube.com/watch?v=JeeUY6WaXiA
+
 # Node
 
 March 2, 2022
