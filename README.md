@@ -148,3 +148,7 @@ https://www.youtube.com/watch?v=7Tok22qxPzQ
 June 20, 2022
 What is Serverless?
 https://www.youtube.com/watch?v=Fx3ZGy-mbV4
+
+June 20, 2022
+5 Design Patterns Every Engineer Should Know
+https://www.youtube.com/watch?v=FLmBqI3IKMA
