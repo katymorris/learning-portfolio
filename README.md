@@ -11,7 +11,7 @@ Angular Crash Course
 https://www.youtube.com/watch?v=3dHNOWTI7H8&t=1501s
 
 June 17, 2022
-Angular - The Complete Guide (2022 Edition)
+Angular - The Complete Guide (2022 Edition) - In Progress
 https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=0#overview
 
 June 20, 2022
@@ -158,3 +158,23 @@ https://www.youtube.com/watch?v=Fx3ZGy-mbV4
 June 21, 2022
 16.8: Array Functions: filter() - Topics of JavaScript/ES6
 https://www.youtube.com/watch?v=qmnH5MT_luk
+
+July 1, 2022 - In Progress
+JavaScript Algorithms and Data Structures Masterclass
+https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass
+
+July 1, 2022
+What are WebSockets? How is it different from HTTP?
+https://www.youtube.com/watch?v=xTR5OflgwgU
+
+July 1, 2022
+SQL vs NoSQL or MySQL vs MongoDB
+https://www.youtube.com/watch?v=ZS_kXvOeQ5Y
+
+July 1, 2022
+REST vs GraphQL - What's the best kind of API?
+https://www.youtube.com/watch?v=PeAOEAmR0D0
+
+July 1, 2022
+Where should you use gRPC? And where NOT to use it!
+https://www.youtube.com/watch?v=4SuFtQV8RCk
