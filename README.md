@@ -10,8 +10,8 @@ June 7, 2022
 Angular Crash Course
 https://www.youtube.com/watch?v=3dHNOWTI7H8&t=1501s
 
-June 17, 2022
-Angular - The Complete Guide (2022 Edition) - In Progress
+June 17-July 10, 2022
+Angular - The Complete Guide (2022 Edition)
 https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=0#overview
 
 June 20, 2022
@@ -109,6 +109,11 @@ June 14, 2022
 
 Live Coding A Machine Learning Model from Scratch (Google I/O'19)
 https://www.youtube.com/watch?v=_RPHiqF2bSs
+
+July 16, 2022
+
+TensorFlow.js Quick Start
+https://www.youtube.com/watch?v=Y_XM3Bu-4yc
 
 ## Azure Cognitive Services
 
