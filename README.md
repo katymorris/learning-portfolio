@@ -3,6 +3,15 @@ List of courses, courses, articles, and things I've been learning to continuousl
 
 ## React
 
+December 2, 2022
+*******************
+Complete React Developer - Zero to Mastery
+https://www.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/15081790#overview
+
+June 20, 2022
+*******************
+Reactive Forms - The Basics
+https://www.youtube.com/watch?v=JeeUY6WaXiA
 
 ## Angular
 
@@ -14,10 +23,6 @@ June 17-July 10, 2022
 Angular - The Complete Guide (2022 Edition)
 https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/13914134?start=0#overview
 
-June 20, 2022
-Reactive Forms - The Basics
-https://www.youtube.com/watch?v=JeeUY6WaXiA
-
 
 
 ## Node
@@ -27,6 +32,15 @@ March 2, 2022
 https://www.youtube.com/watch?v=Lk-uVEVGxOA
 Fastify Crash Course | Node.js Framework
 
+December 17, 2022
+*******************
+Complete NodeJS Developer - Zero to Mastery
+https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/
+
+
+December 22, 2022
+https://www.youtube.com/watch?v=EN6Dx22cPRI&t=816s
+
 ## TypeScript
 
 June 1, 2022
@@ -34,6 +48,11 @@ June 1, 2022
 ******************
 TypeScript Tutorial for Beginners [2022]
 https://www.youtube.com/watch?v=d56mG7DezGs
+
+## Amazon Web Services
+
+Create A Full Stack App With AWS Amplify UI In 15 Minutes
+https://www.youtube.com/watch?v=Q70eWux2xpQ&t=6s
 
 ## Azure
 
@@ -183,3 +202,38 @@ https://www.youtube.com/watch?v=PeAOEAmR0D0
 July 1, 2022
 Where should you use gRPC? And where NOT to use it!
 https://www.youtube.com/watch?v=4SuFtQV8RCk
+
+December 26, 2022
+GraphQL Explained in 100 Seconds
+https://www.youtube.com/watch?v=eIQh02xuVw4
+
+## Books
+
+## More Fun Stuff
+
+December 21, 2022
+
+Discomfort is Necessary for Innovation  | Sterling Hawkins | TEDxChulaVista
+https://www.youtube.com/watch?v=fB9vy9ElJ1g
+
+Applying Innovation in Software Development
+https://www.youtube.com/watch?v=VMygWTC8QaE&t=603s
+
+December 23, 2023
+
+The Current Era of VR has just ended - Thrillseeker
+https://www.youtube.com/watch?v=TGOMs1TpY54
+
+How ChatGPT changed everything: Thoughts from the frontline of the AI/ML revolution
+https://www.youtube.com/watch?v=SCsSpqZq_xA&t=2127s
+
+December 26, 2023
+
+How to be a great programmer | John Carmack and Lex Fridman
+https://www.youtube.com/watch?v=xzPuGf89vpI&t=2s
+
+Top Software Engineering Trends to Watch - 2023
+https://www.youtube.com/watch?v=bOQmGxcA-m0&t=191s
+
+ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners
+https://www.youtube.com/watch?v=JTxsNm9IdYU&t=1099s
